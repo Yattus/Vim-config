@@ -23,8 +23,8 @@ clone le repertoire.
 Deplace vous dans le répertoire Vim-config
 $ cd Vim-config
 
-À l'intérieur, copie le vimrc filé dans le répertoire principal.
-        Vim-config$ cp vimrc ~/
+À l'intérieur de Vim-config, copie le vimrc filé dans le répertoire principal.
+         $ cp vimrc ~/
 
 Rénommé le vimrc en .vimrc (si vous en aviez déjà un, deplacez le
 dans d'un autre répertoire afin de la pas l'ecrasé).
@@ -32,7 +32,7 @@ dans d'un autre répertoire afin de la pas l'ecrasé).
 
 exécute vim, ignoré les erreurs ce sont des plugins non installés.
 Pour installer les plugins,
-une fois dans vim, exécute la commande suivante:
-:PluginInstall
+une fois dans vim, exécute la commande suivante.
+        :PluginInstall
 
 have fun ;)!
